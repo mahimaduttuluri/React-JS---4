@@ -1,0 +1,11 @@
+table,
+th,
+td {
+  border: none;
+}
+
+th,
+td {
+  padding: 10px;
+  text-align: left;
+}
